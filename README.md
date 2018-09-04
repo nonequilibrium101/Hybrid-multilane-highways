@@ -1,4 +1,4 @@
-Hybrid multilane highways
+## Hybrid multilane highways
 
 References
 * Taiyi Zhang and Yu-Cheng Lin, Hybrid multilane models for highway traffic,, arXiv:1808.03690 (2018).
